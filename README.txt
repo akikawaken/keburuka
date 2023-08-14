@@ -10,6 +10,4 @@ twi @akikawa_9616
 
 MIT license
 
-akikawa_9616は、このadd-onを使用して作成されたものについて、すべての著作権を放棄します。
-
 (c) 2022 - 20233 akikawa_9616
