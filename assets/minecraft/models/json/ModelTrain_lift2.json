@@ -1,0 +1,41 @@
+{
+    "trainName": "liftkun2",
+
+    "trainType": "DC",
+
+    "tags":"akikawa",
+
+    "trainModel2":{"modelFile": "ModelTrain_lift2.mqoz",
+        "textures":[ ["mat1", "textures/train/lift_test1.png", ""],
+                     ["mat2", "textures/train/lift_test2.png", ""],
+                     ["mat3", "textures/train/lift_test3.png", ""],
+                     ["mat4", "textures/train/lift_a1.png", ""]
+                   ] 
+                   },
+
+"bogieModel2":{
+    "modelFile": "bogienasi.mqoz",
+    "textures": [
+        ["mat1", "textures/train/nasidayo.png",""]
+    ]
+},
+
+"buttonTexture": "textures/train/button_liftkun2.png",
+
+"sound_Horn": "train.rtm_wh_00l",
+"sound_DoorOpen": "train.door",
+"sound_DoorClose": "train.door",
+  "playerPos": [[0.0, -4.75, -0.1], [0.0, -4.75, -0.1]], 
+  "bogiePos": [[0.0, 0.0, 2.0], [0.0, 0.0, -2.0]], 
+  "trainDistance": 7.5, 
+  "rolling": 0.0,
+
+  "rollSpeedCoefficient":0.1,
+  "rollVariationCoefficient":0.8,
+  "rollWidthCoefficient":2.25,
+
+  "muteJointSound" : true, 
+  "accelerateion" : 0.0027776,
+  "maxSpeed": [0.1, 0.3, 0.4, 0.6, 4.0],
+"accuracy": "LOW"
+}

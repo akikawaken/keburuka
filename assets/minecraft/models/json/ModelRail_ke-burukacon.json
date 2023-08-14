@@ -1,0 +1,15 @@
+{
+  "railName": "keburukacon",
+  "railModel": "ModelRail_keburukacon.mqo",
+  "railTexture": "textures/rail/ke-buruka.png",
+	"buttonTexture": "textures/rail/button_ke-burukacon.png",
+	"polygonType": 4,
+	"defaultBallast": [{
+		"blockName": "air",
+		"blockMetadata": 0,
+		"height": 0.0625
+	}],
+	"allowCrossing": true,
+  "accuracy": "LOW",
+  "tags": "akikawa tekitou"
+}
