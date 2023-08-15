@@ -5,7 +5,7 @@
 
     "tags":"akikawa",
 
-    "trainModel2":{"modelFile": "ModelTrain_lift2.mqoz",
+    "trainModel2":{"modelFile": "ModelTrain_lift2.mqo",
         "textures":[ ["mat1", "textures/train/lift_test1.png", ""],
                      ["mat2", "textures/train/lift_test2.png", ""],
                      ["mat3", "textures/train/lift_test3.png", ""],
